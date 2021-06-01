@@ -9,7 +9,7 @@ const data = [
   },
   {
     img:
-      "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg",
+      "https://format-com-cld-res.cloudinary.com/image/private/s--giSHfbSV--/c_limit,g_center,h_65535,w_550/fl_keep_iptc.progressive,q_95/v1/5731bdb645bac6a81896feb9013d4388/_MG_9783.jpg?550",
   },
 ];
 const prevBtn = document.getElementById("btn1");
