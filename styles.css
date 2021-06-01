@@ -63,8 +63,8 @@ button:hover {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 img {
-  height: 450px;
-  width: 450px;
+  width: 100%;
+  max-width: 60%;
   box-shadow: 1px 3px 3px rgba(0, 0, 0, 0.2);
 }
 .btn {
