@@ -29,6 +29,12 @@ body {
 .img-card:nth-child(3) {
   box-shadow: 0 10px 20px rgba(239, 79, 0.2);
 }
+.img-card:nth-child(4) {
+  box-shadow: 0 10px 20px rgba(239, 79, 0.2);
+}
+.img-card:nth-child(5) {
+  box-shadow: 0 10px 20px rgba(239, 79, 0.2);
+}
 .img-card::before {
   content: "";
   position: absolute;
@@ -46,6 +52,12 @@ body {
   background-color: #ef4f4f;
 }
 .img-card:nth-child(3)::before {
+  background-color: #ef4f4f;
+}
+.img-card:nth-child(4)::before {
+  background-color: #ef4f4f;
+}
+.img-card:nth-child(5)::before {
   background-color: #ef4f4f;
 }
 .img-card img {
