@@ -1,3 +1,3 @@
 #web application 
 
-This is the photoes web application i am going to use html css and javascript 
+this is the first project of project of picture website but we changing this project and we trying another one 
